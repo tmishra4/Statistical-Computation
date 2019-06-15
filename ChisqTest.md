@@ -19,7 +19,6 @@ In this tutorial, we will understand -
 
 1)  Chi-squared test for goodness of fit.
 2)  Chi-squared test for independence.
-3)  Chi-squared test as a test for homogeneity.
 
 One thing to understand is, that first two tests are performed in a
 quite similar fashion, but just interpreted in a different fashion. We
@@ -396,4 +395,4 @@ chisq.test(x)
 Therefore, the null hypothesis is rejected. Hence, it can be stated with
 95% confidence that disease has some correlation with population gender.
 
-Hope you Enjoyed \! Cheers.
+Hope you Enjoyed \! <br/> Cheers.
